@@ -28,6 +28,15 @@ This project aims to build a machine learning model capable of classifying tweet
 
 ---
 
+## Dataset
+
+The dataset used in this project is a collection of tweets, which is used for the classification task of detecting **Hate Speech**, **Offensive Language**, and **Neither**. The dataset was obtained from the following source:
+
+**Dataset Link**: [Hate Speech and Offensive Language Detection Dataset](https://www.kaggle.com/datasets/thedevastator/hate-speech-and-offensive-language-detection/data)
+
+
+
+
 ### 1. Dataset Collection
 
 The dataset used in this project is a CSV file containing tweets. Each tweet is labeled with one of three classes:
