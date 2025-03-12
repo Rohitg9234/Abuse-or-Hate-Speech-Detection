@@ -1,4 +1,4 @@
-# Abuse-or-Hate-Speech-Detection Detection
+# Abuse-or-Hate-Speech-Detection
 
 This project aims to build a machine learning model capable of classifying tweets into three categories: **Hate Speech**, **Offensive Language**, and **Neither**. The approach uses natural language processing (NLP) techniques to clean the data, extract meaningful features, and train a neural network model. The model leverages **LSTM (Long Short-Term Memory)** networks, which are effective for text classification tasks.
 
